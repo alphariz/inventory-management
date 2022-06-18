@@ -20,3 +20,6 @@ Route::get('/', function () {
 Route::view('/inventory/asset', 'inventory.asset');
 Route::view('/inventory/category', 'inventory.category');
 Route::view('/inventory/supplier', 'inventory.supplier');
+
+Route::view('/location/departement', 'location.departement');
+Route::view('/location/rooms', 'location.rooms');
