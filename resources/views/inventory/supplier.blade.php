@@ -1,5 +1,5 @@
 <x-app-layout title="Supplier Barang">
     @slot('main')
-    Aset Barang
+    Supplier Barang
     @endslot
 </x-app-layout>
