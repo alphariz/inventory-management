@@ -127,7 +127,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/ruangan" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/rooms" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Ruangan
                         </a>
                     </div>
@@ -158,7 +158,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="#pengadaan" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/pengadaan" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Pengadaan
                         </a>
                     </div>
@@ -171,7 +171,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="#penempatan" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/penempatan" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Penempatan
                         </a>
                     </div>
@@ -184,7 +184,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="#mutasi" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/mutasi" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Mutasi
                         </a>
                     </div>
@@ -197,7 +197,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="#peminjaman" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/peminjaman" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Peminjaman
                         </a>
                     </div>
@@ -213,7 +213,7 @@
                             <path d="M319.9 320c57.41 0 103.1-46.56 103.1-104c0-57.44-46.54-104-103.1-104c-57.41 0-103.1 46.56-103.1 104C215.9 273.4 262.5 320 319.9 320zM369.9 352H270.1C191.6 352 128 411.7 128 485.3C128 500.1 140.7 512 156.4 512h327.2C499.3 512 512 500.1 512 485.3C512 411.7 448.4 352 369.9 352zM512 160c44.18 0 80-35.82 80-80S556.2 0 512 0c-44.18 0-80 35.82-80 80S467.8 160 512 160zM183.9 216c0-5.449 .9824-10.63 1.609-15.91C174.6 194.1 162.6 192 149.9 192H88.08C39.44 192 0 233.8 0 285.3C0 295.6 7.887 304 17.62 304h199.5C196.7 280.2 183.9 249.7 183.9 216zM128 160c44.18 0 80-35.82 80-80S172.2 0 128 0C83.82 0 48 35.82 48 80S83.82 160 128 160zM551.9 192h-61.84c-12.8 0-24.88 3.037-35.86 8.24C454.8 205.5 455.8 210.6 455.8 216c0 33.71-12.78 64.21-33.16 88h199.7C632.1 304 640 295.6 640 285.3C640 233.8 600.6 192 551.9 192z" />
                         </svg>
                     </div>
-                    <a href="#pengguna" class="w-full pb-1 my-auto text-lg text-slate-100">Pengguna</a>
+                    <a href="/pengguna" class="w-full pb-1 my-auto text-lg text-slate-100">Pengguna</a>
                 </div>
                 <!-- End Pengguna -->
                 <!-- End Menu List -->
@@ -253,22 +253,22 @@
                                         <a href="/departemen">Departemen</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/ruangan">Ruangan</a>
+                                        <a href="/rooms">Ruangan</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="#pengadaan">Pengadaan</a>
+                                        <a href="/pengadaan">Pengadaan</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="#penempatan">Penempatan</a>
+                                        <a href="/penempatan">Penempatan</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="#mutasi">Mutasi</a>
+                                        <a href="/mutasi">Mutasi</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="#peminjaman">Peminjaman</a>
+                                        <a href="/peminjaman">Peminjaman</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="#pengguna">Pengguna</a>
+                                        <a href="/pengguna">Pengguna</a>
                                     </li>
                                 </ul>
                                 <!-- Menu List End -->
