@@ -28,3 +28,5 @@ Route::view('/pengadaan', 'laporan.pengadaan');
 Route::view('/penempatan', 'laporan.penempatan');
 Route::view('/mutasi', 'laporan.mutasi');
 Route::view('/peminjaman', 'laporan.peminjaman');
+
+Route::view('/pengguna', 'pengguna');
