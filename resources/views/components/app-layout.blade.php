@@ -57,7 +57,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/inventory/asset" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/aset" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Aset Barang
                         </a>
                     </div>
@@ -70,7 +70,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/inventory/category" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/kategori" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Kategori Barang
                         </a>
                     </div>
@@ -83,7 +83,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/inventory/supplier" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/supplier" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Supplier Barang
                         </a>
                     </div>
@@ -114,7 +114,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/location/departement" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/departemen" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Departemen
                         </a>
                     </div>
@@ -127,7 +127,7 @@
                                 <path d="M342.6 182.6C336.4 188.9 328.2 192 319.1 192s-16.38-3.125-22.62-9.375L224 109.3V432c0 44.13-35.89 80-80 80H32c-17.67 0-32-14.31-32-32s14.33-32 32-32h112C152.8 448 160 440.8 160 432V109.3L86.62 182.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l127.1-128c12.5-12.5 32.75-12.5 45.25 0l128 128C355.1 149.9 355.1 170.1 342.6 182.6z" />
                             </svg>
                         </div>
-                        <a href="/location/rooms" class="w-full pb-1 my-auto text-lg text-slate-100">
+                        <a href="/ruangan" class="w-full pb-1 my-auto text-lg text-slate-100">
                             Ruangan
                         </a>
                     </div>
@@ -241,19 +241,19 @@
                                         <a href="/">Home</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/inventory/asset">Aset Barang</a>
+                                        <a href="/aset">Aset Barang</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/inventory/category">Kategori Barang</a>
+                                        <a href="/kategori">Kategori Barang</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/inventory/supplier">Supplier Barang</a>
+                                        <a href="/supplier">Supplier Barang</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/location/departement">Departemen</a>
+                                        <a href="/departemen">Departemen</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
-                                        <a href="/location/rooms">Ruangan</a>
+                                        <a href="/ruangan">Ruangan</a>
                                     </li>
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
                                         <a href="#pengadaan">Pengadaan</a>

@@ -17,9 +17,9 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::view('/inventory/asset', 'inventory.asset');
-Route::view('/inventory/category', 'inventory.category');
-Route::view('/inventory/supplier', 'inventory.supplier');
+Route::view('/aset', 'inventori.aset');
+Route::view('/kategori', 'inventori.kategori');
+Route::view('/supplier', 'inventori.supplier');
 
-Route::view('/location/departement', 'location.departement');
-Route::view('/location/rooms', 'location.rooms');
+Route::view('/departemen', 'lokasi.departemen');
+Route::view('/ruangan', 'lokasi.ruangan');
