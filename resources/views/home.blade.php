@@ -11,7 +11,7 @@
                     </svg>
                 </div>
                 <div class="flex justify-center h-full place-items-center lg:place-content-end lg:pr-4 lg:relative">
-                    <div class="text-xl font-semibold lg:text-3xl lg:font-bold lg:absolute lg:bottom-0 lg:text-slate-700">
+                    <div class="text-xl font-semibold md:text-2xl lg:text-3xl lg:font-bold lg:absolute lg:bottom-0 lg:text-slate-700">
                         Pengguna
                     </div>
                 </div>
