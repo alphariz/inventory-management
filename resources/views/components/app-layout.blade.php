@@ -17,9 +17,9 @@
                     <div>
                         <img src="" alt="Logo" class="h-full p-2 my-auto w-14" />
                     </div>
-                    <a href="/" class="flex flex-col min-w-full my-auto font-semibold text-slate-100 lg:flex-row lg:text-xl">
+                    <a href="/" class="flex flex-col min-w-full my-auto font-semibold text-slate-100 lg:text-xl">
                         <div>STIKes Mahardika</div>
-                        <div class="lg:ml-1">Cirebon</div>
+                        <div>Cirebon</div>
                     </a>
                 </div>
                 <!-- End Logo -->
