@@ -17,16 +17,16 @@ Route::get('/', function () {
     return view('home');
 });
 
-Route::view('/aset', 'inventori.aset');
-Route::view('/kategori', 'inventori.kategori');
-Route::view('/supplier', 'inventori.supplier');
+Route::view('/inventory/aset', 'inventori.aset');
+Route::view('/inventory/kategori', 'inventori.kategori');
+Route::view('/inventory/supplier', 'inventori.supplier');
 
-Route::view('/departemen', 'lokasi.departemen');
-Route::view('/ruangan', 'lokasi.ruangan');
+Route::view('/location/departemen', 'lokasi.departemen');
+Route::view('/location/ruangan', 'lokasi.ruangan');
 
-Route::view('/pengadaan', 'laporan.pengadaan');
-Route::view('/penempatan', 'laporan.penempatan');
-Route::view('/mutasi', 'laporan.mutasi');
-Route::view('/peminjaman', 'laporan.peminjaman');
+Route::view('/report/pengadaan', 'laporan.pengadaan');
+Route::view('/report/penempatan', 'laporan.penempatan');
+Route::view('/report/mutasi', 'laporan.mutasi');
+Route::view('/report/peminjaman', 'laporan.peminjaman');
 
 Route::view('/pengguna', 'pengguna');
