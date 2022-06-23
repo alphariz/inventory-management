@@ -236,7 +236,7 @@
                                 </svg>
 
                                 <!-- Menu List Start -->
-                                <ul class="absolute hidden mt-4 -mx-4 peer-checked:block">
+                                <ul class="absolute z-50 hidden mt-4 -mx-4 peer-checked:block">
                                     <li class="w-screen h-12 py-2 text-lg font-semibold text-center border-y text-slate-50 border-slate-50 bg-sky-600 hover:bg-sky-900 active:bg-sky-300 active:text-slate-700">
                                         <a href="/">Home</a>
                                     </li>
