@@ -36,7 +36,7 @@
                 <!-- End Home -->
                 <!-- Inventaris -->
                 <div class="relative group">
-                    <input type="checkbox" name="" id="" class="absolute w-full opacity-0 h-14 peer" />
+                    <input type="checkbox" name="sidebar_menu" id="" onclick="onlyOne(this)" class="z-10 absolute w-full opacity-0 h-14 peer" />
                     <div class="flex w-full border-y border-slate-400 h-14 bg-slate-500 group-hover:bg-sky-600 group-active:bg-sky-800 peer-checked:bg-sky-700 group-hover:border-y group-hover:border-slate-300">
                         <div class="mx-2 my-auto w-14 fill-slate-100">
                             <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
@@ -47,6 +47,11 @@
                         <div class="w-full pb-1 my-auto text-lg text-slate-100">
                             Inventaris
                         </div>
+                    </div>
+                    <div class="z-0 absolute top-[0.95rem] right-1 w-fit h-fit fill-sky-100 peer-checked:-rotate-90 peer-checked:top-3">
+                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512">
+                            <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                            <path d="M137.4 406.6l-128-127.1C3.125 272.4 0 264.2 0 255.1s3.125-16.38 9.375-22.63l128-127.1c9.156-9.156 22.91-11.9 34.88-6.943S192 115.1 192 128v255.1c0 12.94-7.781 24.62-19.75 29.58S146.5 415.8 137.4 406.6z" /></svg>
                     </div>
                     <!-- Sub Menu .................................................... -->
                     <!-- Aset Barang -->
@@ -93,7 +98,7 @@
                 <!-- End Inventaris -->
                 <!-- Lokasi -->
                 <div class="relative group">
-                    <input type="checkbox" name="" id="" class="absolute w-full opacity-0 h-14 peer" />
+                    <input type="checkbox" name="sidebar_menu" id="" onclick="onlyOne(this)" class="z-10 absolute w-full opacity-0 h-14 peer" />
                     <div class="flex w-full border-y border-slate-400 h-14 bg-slate-500 group-hover:bg-sky-600 group-active:bg-sky-800 peer-checked:bg-sky-700 group-hover:border-y group-hover:border-slate-300">
                         <div class="mx-2 my-auto w-14 fill-slate-100">
                             <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -104,6 +109,11 @@
                         <div class="w-full pb-1 my-auto text-lg text-slate-100">
                             Lokasi
                         </div>
+                    </div>
+                    <div class="z-0 absolute top-[0.95rem] right-1 w-fit h-fit fill-sky-100 peer-checked:-rotate-90 peer-checked:top-3">
+                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512">
+                            <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                            <path d="M137.4 406.6l-128-127.1C3.125 272.4 0 264.2 0 255.1s3.125-16.38 9.375-22.63l128-127.1c9.156-9.156 22.91-11.9 34.88-6.943S192 115.1 192 128v255.1c0 12.94-7.781 24.62-19.75 29.58S146.5 415.8 137.4 406.6z" /></svg>
                     </div>
                     <!-- Sub Menu .................................................... -->
                     <!-- Departemen -->
@@ -137,7 +147,7 @@
                 <!-- End Lokasi -->
                 <!-- Laporan -->
                 <div class="relative group">
-                    <input type="checkbox" name="" id="" class="absolute w-full opacity-0 h-14 peer" />
+                    <input type="checkbox" name="sidebar_menu" onclick="onlyOne(this)" id="" class="z-10 absolute w-full opacity-0 h-14 peer" />
                     <div class="flex w-full border-y border-slate-400 h-14 bg-slate-500 group-hover:bg-sky-600 group-active:bg-sky-800 peer-checked:bg-sky-700 group-hover:border-y group-hover:border-slate-300">
                         <div class="mx-2 my-auto w-14 fill-slate-100">
                             <svg class="w-7 h-7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
@@ -148,6 +158,11 @@
                         <div class="w-full pb-1 my-auto text-lg text-slate-100">
                             Laporan
                         </div>
+                    </div>
+                    <div class="z-0 absolute top-[0.95rem] right-1 w-fit h-fit fill-sky-100 peer-checked:-rotate-90 peer-checked:top-3">
+                        <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 512">
+                            <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                            <path d="M137.4 406.6l-128-127.1C3.125 272.4 0 264.2 0 255.1s3.125-16.38 9.375-22.63l128-127.1c9.156-9.156 22.91-11.9 34.88-6.943S192 115.1 192 128v255.1c0 12.94-7.781 24.62-19.75 29.58S146.5 415.8 137.4 406.6z" /></svg>
                     </div>
                     <!-- Sub Menu .................................................... -->
                     <!-- Pengadaan -->
@@ -306,7 +321,7 @@
 
             <main>
                 <!-- Dashboard -->
-                <div class="min-w-full min-h-screen px-4 py-4 bg-slate-100">
+                <div class="min-w-full h-screen px-4 py-4 bg-slate-100">
                     {{ $main }}
                 </div>
             </main>
@@ -326,6 +341,17 @@
 
     <!-- PopperJS -->
     <script src="https://unpkg.com/@popperjs/core@2.9.1/dist/umd/popper.min.js" charset="utf-8"></script>
+
+    {{-- Sidebar Menu --}}
+    <script>
+        function onlyOne(checkbox) {
+            var checkboxes = document.getElementsByName('sidebar_menu')
+            checkboxes.forEach((item) => {
+                if (item !== checkbox) item.checked = false
+            })
+        }
+
+    </script>
 
     <!-- Dropdown Menu -->
     <script>
