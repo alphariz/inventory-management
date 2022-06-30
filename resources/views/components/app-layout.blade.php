@@ -321,7 +321,7 @@
 
             <main>
                 <!-- Dashboard -->
-                <div class="min-w-full h-screen px-4 py-4 bg-slate-100">
+                <div class="min-w-full h-screen px-4 py-4 bg-slate-100 overflow-auto block">
                     {{ $main }}
                 </div>
             </main>

@@ -30,3 +30,5 @@ Route::view('/report/mutasi', 'laporan.mutasi');
 Route::view('/report/peminjaman', 'laporan.peminjaman');
 
 Route::view('/pengguna', 'pengguna');
+
+Route::view('/post/add_aset', 'inventori.post.add_aset');
