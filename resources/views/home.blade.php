@@ -1,6 +1,6 @@
 <x-app-layout title="Home">
     @slot('main')
-    <div class="grid w-full h-full grid-cols-2 gap-5 lg:grid-cols-4">
+    <div class="grid w-full grid-cols-2 gap-5 lg:grid-cols-4">
         <!-- User -->
         <div class="w-full rounded-lg shadow-lg bg-slate-50 h-60 lg:h-40">
             <div class="flex flex-col lg:grid lg:grid-cols-2">
