@@ -5,7 +5,7 @@
             <div class="pt-1 font-semibold text-slate-700 uppercase">Supplier Barang</div>
             {{-- Tambah Aset Mobile Mode --}}
             <div class="md:hidden">
-                <a href="#tambah_data" class="flex">
+                <a href="/post/add_supplier" class="flex">
                     <div class="h-8 px-2 py-2 bg-green-700 rounded-l">
                         <svg class="w-4 h-4 fill-slate-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                             <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
@@ -39,7 +39,7 @@
 
             {{-- Tambah --}}
             <div class="hidden my-4 md:block">
-                <a href="#tambah_data" class="flex group">
+                <a href="/post/add_supplier" class="flex group">
                     <div class="h-8 px-2 py-2 bg-green-700 rounded-l group-hover:bg-green-600 group-active:bg-green-800">
                         <svg class="w-4 h-4 fill-slate-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                             <!--! Font Awesome Pro 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->

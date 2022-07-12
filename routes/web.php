@@ -32,3 +32,5 @@ Route::view('/report/peminjaman', 'laporan.peminjaman');
 Route::view('/pengguna', 'pengguna');
 
 Route::view('/post/add_aset', 'inventori.post.add_aset');
+Route::view('/post/add_kategori', 'inventori.post.add_kategori');
+Route::view('/post/add_supplier', 'inventori.post.add_supplier');
